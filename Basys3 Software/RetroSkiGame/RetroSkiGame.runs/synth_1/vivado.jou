@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Mon Mar  2 18:56:03 2020
+# Process ID: 9860
+# Current directory: C:/Users/mitch/Documents/School/ProjectRetroGame_Software/Basys3 Software/RetroSkiGame/RetroSkiGame.runs/synth_1
+# Command line: vivado.exe -log Top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top.tcl
+# Log file: C:/Users/mitch/Documents/School/ProjectRetroGame_Software/Basys3 Software/RetroSkiGame/RetroSkiGame.runs/synth_1/Top.vds
+# Journal file: C:/Users/mitch/Documents/School/ProjectRetroGame_Software/Basys3 Software/RetroSkiGame/RetroSkiGame.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Top.tcl -notrace
